@@ -1,0 +1,3 @@
+1. in Google: how to implement shell in C: https://brennan.io/2015/01/16/write-a-shell-in-c/
+2. https://stackoverflow.com/questions/7155810/example-of-waitpid-wnohang-and-sigchld
+3. http://www.di.uevora.pt/~lmr/syscalls.html
